@@ -54,3 +54,4 @@ C:\Desenv.Balta\Blog\obj\Debug\net6.0\ref\Blog.dll
 C:\Desenv.Balta\Blog\obj\Debug\net6.0\Blog.pdb
 C:\Desenv.Balta\Blog\obj\Debug\net6.0\Blog.genruntimeconfig.cache
 C:\Desenv.Balta\Blog\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Desenv.Balta\Blog\bin\Debug\net6.0\SecureIdentity.dll

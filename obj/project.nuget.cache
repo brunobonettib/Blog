@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ISQn4gN5VJi3CYdvxD73WXjtnbUbPvL9ShJL2iaas3xwCfAoWZMFgEh602NswcYG/NM58m+01wEjaRZwfblu+w==",
+  "dgSpecHash": "sJhgyV1ujqfvWIBdsFhBobokVPS/Ad182iwynCSbvQhT4ahKCiaiPIWXfKg4Z27IQnjqITOQ316ZazQQ29aRiQ==",
   "success": true,
   "projectFilePath": "C:\\Desenv.Balta\\Blog\\Blog.csproj",
   "expectedPackageFiles": [
@@ -51,6 +51,7 @@
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\secureidentity\\1.0.2\\secureidentity.1.0.2.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
